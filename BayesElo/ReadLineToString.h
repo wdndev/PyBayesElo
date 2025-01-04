@@ -2,7 +2,7 @@
 //
 // ReadLineToString.h
 //
-// Rémi Coulom
+// RÃ©mi Coulom
 //
 // April, 2006
 //

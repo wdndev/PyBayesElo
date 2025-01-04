@@ -5,7 +5,7 @@
 // CSTR class definition
 // (Seven Tag Roster)
 //
-// R‚mi Coulom
+// Râ€šmi Coulom
 //
 // june 1996
 //
