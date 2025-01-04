@@ -4,6 +4,8 @@
 
 源码链接：https://github.com/yytdfc/Bayesian-Elo/tree/master
 
+参考文档：[Bayesian Elo Rating](https://www.remi-coulom.fr/Bayesian-Elo/)
+
 说明：本仓库代码，是在原来的仓库中进一步构建封装，方面在windows系统中构建和使用
 
 ## 2.CMake构建
