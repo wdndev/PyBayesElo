@@ -2,9 +2,11 @@
 
 ## 1.简介
 
-源码链接：https://github.com/yytdfc/Bayesian-Elo/tree/master
+源码链接：[Bayesian-Elo](https://github.com/yytdfc/Bayesian-Elo/tree/master)
 
 参考文档：[Bayesian Elo Rating](https://www.remi-coulom.fr/Bayesian-Elo/)
+
+Python Bayesian Elo： [Release win python bayes elo · wdndev/PyBayesElo](https://github.com/wdndev/PyBayesElo/releases/tag/win_python_bayes_elo)
 
 说明：本仓库代码，是在原来的仓库中进一步构建封装，方面在windows系统中构建和使用
 
